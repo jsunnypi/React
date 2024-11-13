@@ -1,0 +1,22 @@
+div{
+  background-color: rgb(162,127,243);
+  color: rgb(255, 255, 255);
+  padding: 40px;
+  font-family: 고딕;
+  text-align: center;
+}
+
+h1{
+  color: white;
+  background-color: #2efe2f;
+  padding: 10px;
+  font-family: 궁서;
+}
+
+.react{
+  background-color: aqua;
+  color: black;
+  font-size: 48px;
+  font-weight: bold;
+  padding: 16px;
+}
